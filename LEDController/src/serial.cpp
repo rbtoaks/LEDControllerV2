@@ -1,6 +1,6 @@
 #include "serial.h"
 
-#include "../LEDController.h"
+#include "LEDCOntroller.h"
 #include "bmx280.h"
 #include "LED_eeprom.h"
 #include "LED.h"

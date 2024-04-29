@@ -1,6 +1,6 @@
 #include "mode.h"
 
-#include "../LEDController.h"
+#include "LEDCOntroller.h"
 #include "LED.h"
 #include "shows.h"
 #include "LED_eeprom.h"

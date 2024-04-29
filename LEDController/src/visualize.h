@@ -1,6 +1,6 @@
 #pragma once
 
-#include "../LEDController.h"
+#include "LEDCOntroller.h"
 
 #ifdef VISUALIZER
 

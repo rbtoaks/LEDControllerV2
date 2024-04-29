@@ -1,6 +1,6 @@
 #include "shows.h"
 
-#include "../LEDController.h"
+#include "LEDCOntroller.h"
 
 #include "LED.h"
 #include "patterns.h"

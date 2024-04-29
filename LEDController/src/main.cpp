@@ -6,7 +6,7 @@
  * 
  */
 #include <Arduino.h>
-#include "../LEDController.h"
+#include "LEDController.h"
 
 #include "LED.h"
 #include "LED.h"

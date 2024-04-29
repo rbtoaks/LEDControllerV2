@@ -2,7 +2,7 @@
 
 #include "LED_eeprom.h"
 #include "pins.h"
-#include "../LEDController.h"
+#include "LEDController.h"
 
 LED Right;
 LED Left;
