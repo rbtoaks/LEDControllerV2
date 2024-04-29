@@ -3,7 +3,7 @@
 #include "../LEDController.h"
 #include "LED.h"
 #include "shows.h"
-#include "eeprom.h"
+#include "LED_eeprom.h"
 #include "pins.h"
 #include "button.h"
 #include "input.h"

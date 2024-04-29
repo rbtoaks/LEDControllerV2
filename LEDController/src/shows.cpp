@@ -4,7 +4,7 @@
 
 #include "LED.h"
 #include "patterns.h"
-#include "eeprom.h"
+#include "LED_eeprom.h"
 #include "pins.h"
 #include "bmx280.h"
 #include "mode.h"

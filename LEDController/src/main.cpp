@@ -10,7 +10,7 @@
 
 #include "LED.h"
 #include "LED.h"
-#include "eeprom.h"
+#include "LED_eeprom.h"
 #include "shows.h"
 #include "mode.h"
 #include "pins.h"

@@ -2,7 +2,7 @@
 
 #include "../LEDController.h"
 #include "bmx280.h"
-#include "eeprom.h"
+#include "LED_eeprom.h"
 #include "LED.h"
 #include "mode.h"
 #include "visualize.h"
